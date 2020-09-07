@@ -3,26 +3,28 @@ CMU Telling Stories with Data Class, link to live site https://bripperg.github.i
 
 # About me
 
-###### Locations Lived
+###### **Locations Lived**
 
-I was born in Tulsa, OK where I lived there through high school.
+Tulsa, OK: born through high school
 
-I spent my first year of college at Oklahoma State University in Stillwater, OK. 
+Stillwater, OK: freshman year of college @ Oklahoma State University
 
-I then transferred to St. Louis, MO where I attended a joint engineering program between Washington University in St. Louis and University of Missouri- St. Louis. After graduation, I continued living in St. Louis while starting my professional career with Bilfinger. 
+St. Louis, MO: transferred to attended the joint engineering program between Washington University in St. Louis and University of Missouri- St. Louis
 
-Last year, my wife was accepted to a PhD program at University of Pittsburgh, which is why I moved in July 2019 to Pittsburgh, PA!
+St. Louis, MO: started my professional career with Bilfinger
 
-I also lived in Mannheim, Germany for 3.5 months during Oct 2019 - Feb 2020, on a job rotation with my company. 
+Pittsburgh, PA: my wife was accepted into a PhD program at University of Pittsburgh, so we moved in July 2019!
 
-###### Work
+Mannheim, DE: job rotation with my company's HQ between Oct 2019 and Feb 2020
+
+###### **Work**
 
 I received my BS in Mechanical Engineering. I joined Bilfinger Industrial Services' full-time staff as a cost engineer. I assist our industrial clients in business planning. My major industries are consumer products, chemicals, and oil & gas. I help our clients understand the cost implications of their business plans through conceptual and feasibility estimating engineering and construction effort. Clients rely on our output to make decisions on scope they can afford. Once projects are funded, I then typically assist project managers to deliver the projects (cost planning, cost tracking, and forecasting).
 
 Over the last year, I have been consistently developing data solutions for my company. Mostly helping to optimize the way our business currently operates, but also adding enhancements that deliver our company mission statement as an innovative partner for our clients. When I found the BIDA program at CMU, I knew it was the perfect way to help educate myself for how my role in the company is transitioning.
 
 
-###### Interests
+###### **Interests**
 
 I don't want to drag this out, so I will highlight some of the major interests of mine
 
