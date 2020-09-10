@@ -3,7 +3,7 @@ CMU Telling Stories with Data Class, link to live site https://bripperg.github.i
 
 # About me
 
-###### Locations Lived
+#### Locations Lived
 
 '93 - '12 Tulsa, OK: born through graduating high school
 
@@ -17,14 +17,14 @@ CMU Telling Stories with Data Class, link to live site https://bripperg.github.i
 
 '19 - '20 Mannheim, DE: job rotation with my company's HQ between Oct 2019 and Feb 2020
 
-###### Work
+#### Work
 
 I received my BS in Mechanical Engineering. I joined Bilfinger Industrial Services' full-time staff as a cost engineer. I assist our industrial clients in business planning. My major industries are consumer products, chemicals, and oil & gas. I help our clients understand the cost implications of their business plans through conceptual and feasibility estimating engineering and construction effort. Clients rely on our output to make decisions on scope they can afford. Once projects are funded, I then typically assist project managers to deliver the projects (cost planning, cost tracking, and forecasting).
 
 Over the last year, I have been consistently developing data solutions for my company. Mostly helping to optimize the way our business currently operates, but also adding enhancements that deliver our company mission statement as an innovative partner for our clients. When I found the BIDA program at CMU, I knew it was the perfect way to help educate myself for how my role in the company is transitioning.
 
 
-###### Interests
+#### Interests
 
 I don't want to drag this out, so I will highlight some of the major interests of mine
 
@@ -46,5 +46,6 @@ I also enjoy board games, movies, and fiction books.
 
 # Portfolio
 
+#### How are the bridges in Pennsylvania? What are the inspection reports telling us about the assets?
 
 <iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9ac80861-101f-4182-965a-3b42da857d78&autoAuth=true&ctid=a0c73f02-35f4-41e3-be9d-9f7b606571cc&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWV1cm9wZS1ub3J0aC1iLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
