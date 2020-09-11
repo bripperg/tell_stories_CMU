@@ -11,7 +11,7 @@ CMU Telling Stories with Data Class, link to live site https://bripperg.github.i
 
 '13 - '16 St. Louis, MO: transferred to attend a joint engineering program between Washington University in St. Louis and University of Missouri- St. Louis
 
-'16 - '19 St. Louis, MO: started my professional career with Bilfinger upon graduation
+'16 - '19 St. Louis, MO: started my professional career with Bilfinger, after graduation
 
 '19 - '20 Pittsburgh, PA: moved when my wife was accepted into a PhD program at University of Pittsburgh
 
