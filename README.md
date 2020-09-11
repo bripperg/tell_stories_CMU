@@ -50,7 +50,4 @@ I also enjoy board games, movies, and fiction books.
 
 <iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9ac80861-101f-4182-965a-3b42da857d78&autoAuth=true&ctid=a0c73f02-35f4-41e3-be9d-9f7b606571cc&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWV1cm9wZS1ub3J0aC1iLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-#### Flourish example from class
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/3707695" data-url="https://flo.uri.sh/visualisation/3707695/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
