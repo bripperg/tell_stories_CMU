@@ -15,7 +15,7 @@ CMU Telling Stories with Data Class, link to live site https://bripperg.github.i
 
 '19 - '20 Pittsburgh, PA: moved when my wife was accepted into a PhD program at University of Pittsburgh
 
-'19 - '20 Mannheim, DE: CEO business assistant for a job rotation at my company's headquarters, Oct 2019 - Feb 2020
+'19 - '20 Mannheim, DE: job rotation as CEO's business assistant, Oct 2019 - Feb 2020
 
 #### Work
 
