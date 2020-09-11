@@ -15,13 +15,13 @@ CMU Telling Stories with Data Class, link to live site https://bripperg.github.i
 
 '19 - '20 Pittsburgh, PA: moved when my wife was accepted into a PhD program at University of Pittsburgh
 
-'19 - '20 Mannheim, DE: job rotation with my company's HQ between Oct 2019 and Feb 2020
+'19 - '20 Mannheim, DE: CEO business assistant job rotation at my company's headquarters, Oct 2019 - Feb 2020
 
 #### Work
 
-I received my BS in Mechanical Engineering. I joined Bilfinger Industrial Services' full-time staff as a cost engineer. I assist our industrial clients in business planning. My major industries are consumer products, chemicals, and oil & gas. I help our clients understand the cost implications of their business plans through conceptual and feasibility estimating engineering and construction effort. Clients rely on our output to make decisions on scope they can afford. Once projects are funded, I then typically assist project managers to deliver the projects (cost planning, cost tracking, and forecasting).
+I received my BS in Mechanical Engineering. I joined Bilfinger Industrial Services' full-time staff as a cost engineer. My major industries are consumer products, chemicals, and oil & gas. I help our clients understand the cost implications of their business plans through conceptual and feasibility estimating engineering and construction effort. 
 
-Over the last year, I have been consistently developing data solutions for my company. Mostly helping to optimize the way our business currently operates, but also adding enhancements that deliver our company mission statement as an innovative partner for our clients. When I found the BIDA program at CMU, I knew it was the perfect way to help educate myself for how my role in the company is transitioning.
+Over the last year, I have been consistently developing data solutions for my company. Mostly helping to optimize the way our business currently operates. When I found the BIDA program at CMU, I knew it was the perfect way to help educate myself for how my role in the company is transitioning.
 
 
 #### Interests
