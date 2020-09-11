@@ -7,7 +7,7 @@ CMU Telling Stories with Data Class, link to live site https://bripperg.github.i
 
 '93 - '12 Tulsa, OK: born through graduating high school
 
-'12 - '13 Stillwater, OK: college freshman year @ Oklahoma State University
+'12 - '13 Stillwater, OK: college freshman @ Oklahoma State University
 
 '13 - '16 St. Louis, MO: transferred to attend a joint engineering program between Washington University in St. Louis and University of Missouri- St. Louis
 
