@@ -13,7 +13,7 @@ CMU Telling Stories with Data Class, link to live site https://bripperg.github.i
 
 '16 - '19 St. Louis, MO: started my professional career with Bilfinger upon graduation
 
-'19 - '20 Pittsburgh, PA: my wife was accepted into a PhD program at University of Pittsburgh
+'19 - '20 Pittsburgh, PA: moved when my wife was accepted into a PhD program at University of Pittsburgh
 
 '19 - '20 Mannheim, DE: job rotation with my company's HQ between Oct 2019 and Feb 2020
 
