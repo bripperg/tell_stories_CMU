@@ -1,4 +1,4 @@
-CMU Telling Stories with Data Class, link to live site https://bripperg.github.io/tell_stories_CMU/
+CMU Telling Stories with Data Class, link to live site [Home Page](https://bripperg.github.io/tell_stories_CMU/)
 
 # Dataviz number 2
 
@@ -16,3 +16,21 @@ Government Debt-to-GDP is a great way to visualize relative debt between countri
 An upward trajectory means countries' debts are rising faster than their respective GDP. Notice how Japan has more than doubled since 1995. The United States of America, Great Britain, and France all started taking on debt around 2007 (US stock market crashed at that time), potentially so that each country could stabilze their economy. Germany and Canada have been on downward trends since 2012 and 1996, respectively.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3748811" data-url="https://flo.uri.sh/visualisation/3748811/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+### Government Debt-to-GDP Ratio Take 2
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3758309" data-url="https://flo.uri.sh/visualisation/3758309/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+Choosing the best chart to visulaize governemnt debt takes a few attempts. 
+
+In the first attempt, I referenced a bar chart from the OECD webiste. It's extremely quick to notice the relative debt outliers, Japan and Greece. One note, we are specifically looking at 2018. This is important, because in order to keep bar charts manageable, we can really only look at one year. Even when we have mutliple years. Our readers can quickly distinguish the countries in relative debt, but they can't tell which countries are just having a few bad years or countries that have been consistently accruing debt. 
+
+In the second attempt, I built a grid of line charts. Each chart has the same scale for both x and y. This chart is extremely benefitical. We are able to see individual countries clearly, and how each country's ratio has been moving through time. The visualization is powerful, the major limitation is the dificult seeing what years had similar affects on countries. 
+
+In the final attempt, I built an overlayed line-chart. This, although providing a lot of crossing lines charts, provides data anylsts to share years that affected countries simaltanously. I was able to show how in 2011, 3 countries took on debt. Two have their debt starting to recover, while one was still on an upwards trend. 
+
+In my opinion, the grid of lines provides the best balance of data and simplicity. I was still able to point out how France, USA, and Great Britain each had to take on debt during 2008. We are also able to clearly see their final data point and a likely tragetory. While the bar chart and overlay line chart each have hekoful applications, the grid was great. 
+
