@@ -4,7 +4,7 @@ CMU Telling Stories with Data Class, link to live site [Home Page](https://bripp
 
 ### Government Debt OECD
 
-Notice the Americas, as compared to other countries! 
+Notice the Americas, as compared to other continents!
 
 
 <iframe src="https://data.oecd.org/chart/65F7" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65F7" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
