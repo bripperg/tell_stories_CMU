@@ -89,5 +89,5 @@ I was wondering if the path to zero would be too much, that’s an industry term
 
 ### Step five:
 
-[Path to Zero](/Start your path to zero fatalities.PNG)
+![Path to Zero](/Start your path to zero fatalities.PNG)
 
