@@ -14,7 +14,7 @@ I submitted my responses thru the google form
 
 Here is my wireframe created from Balsamiq
 
-![Wire Frame](/Wireframe.PNG)
+![Wireframe](/Wireframe.PNG)
 
 
 ### Step four:
