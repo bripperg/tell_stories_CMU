@@ -1,7 +1,9 @@
 # tell_stories_CMU
 CMU Telling Stories with Data Class, link to live site https://bripperg.github.io/tell_stories_CMU/
 
-link to DataViz2
+link to [DataViz2](https://bripperg.github.io/tell_stories_CMU/dataviz2.html)
+link to [DataViz3](https://bripperg.github.io/tell_stories_CMU/dataviz3.html)
+link to [Final Project](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
 
 # About me
 
