@@ -30,7 +30,7 @@ Bridges in the United States are not as relieable as people believe. Bridge inte
 #### Initial Sketches
 ![Story Arc](/Story Arc.PNG)
 ![History of bridges](/History of Innovation.PNG)
-![Trend of Failures](/Trend of Failures.PGN)
+![Trend of Failures](/Trend of Failures.PNG)
 ![PennDOT](/PennDOT.PNG)
 ![Technology](/Technology.PNG)
 
