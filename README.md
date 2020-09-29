@@ -1,6 +1,8 @@
 # tell_stories_CMU
 CMU Telling Stories with Data Class, link to live site https://bripperg.github.io/tell_stories_CMU/
 
+link to DataViz2
+
 # About me
 
 #### Locations Lived
