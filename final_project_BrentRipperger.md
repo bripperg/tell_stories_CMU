@@ -1,5 +1,5 @@
-# Home Page
-
+#### Home Page
+CMU Telling Stories with Data Class, link to live site [Home Page](https://bripperg.github.io/tell_stories_CMU/)
 
 # Final Project: PennDOT Bridge Asset Management, Helping Maintain Sustainability
 ###### The story of how mainenance and innovation can lead to a better future
