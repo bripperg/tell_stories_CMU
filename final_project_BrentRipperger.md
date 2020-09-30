@@ -46,6 +46,12 @@ Although we may not notice it, bridge health is a major topic that needs to be a
 
 
 ###### Major Recent Technology for Use In Bridges
+
+Listening to bridges is when we attach sensors to the bridge. The sensors passively wait for cracks/impacts to occur and inform crews (sometimes within 10cm) where the issue has propigated. 
+
+Also, Akselos is another technolgoy developed by MIT. It uses an old strategy for calculating the current health of a structure. The major selling point though is that in the past, the effort usually takes 2 weeks to hand calculate the proper formulas to represent the structure. Now, through servers, we can have computers run the complex mathmatical expressions to provide real-time health. 
+
+The selling point is to link the two technologies to work off each other. Past data is input into the Akselos model (ie cracks, corrosion, bends, etc), present data is fed from the sensors attached, and future data is predicted through the algorithyms. It's a holistic solution that allows one person to maintain a whole network of bridges. Efficiently sending crews to the proper maintenance points, understanding which bridges will need to be replaced within the next 5 years, and extending the life of bridges that typically would have to be shutdown. This will also save the need for the yearly inspections that're required by states. 
 ![New_Tech](/tech_story.PNG)
 ![Technology](/Technology.PNG)
 
