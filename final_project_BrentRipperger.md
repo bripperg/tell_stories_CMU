@@ -70,7 +70,11 @@ I've researched and pulled data on the current status of all the bridges in Penn
 
 Thru my research, I uncovered a presentation from PennDOT on their implementation program for capital and maintenance of bridges. This was publically available on PennDOT's website. The presentation discusses how they have been developing their asset management and the tools metrics they are starting to track. 
 
+![PennDOT Asset Mgmt Presentation](/PennDOT-AssetManagementPresentation)
+
 Second, I used Wikipedia to understand the global bridge failures. There is a documented table of what happened, how many were injured, and what is the overall trend. [https://en.wikipedia.org/wiki/List_of_bridge_failures](https://en.wikipedia.org/wiki/List_of_bridge_failures)
+
+[Bridge Failures](/Wikipedia Bridge Collapse.xlsx)
 
 Third, I found data on the history of bridges. [https://truetechbridge.com/about-us/history/](https://truetechbridge.com/about-us/history/)
 
