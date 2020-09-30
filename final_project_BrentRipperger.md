@@ -63,7 +63,7 @@ PennDOT's publically available data is my major source.
 
 I've researched and pulled data on the current status of all the bridges in Pennsylvania. This gives me a snapshot of the current health of bridges with good, fair, and poor ratings. I pulled the data late last year for a work project, but I want to use this opportunity to share the full story we are facing. 
 
-![State Data A1](/PENNDOTReport A1 - STATE_PUBLIC.xlsx)
+(/PENNDOTReport A1 - STATE_PUBLIC.xlsx)
 ![State Data A2](/PENNDOTReport A1 - STATE_PUBLIC.xlsx)
 ![Local Data B1](/PENNDOTReport A1 - STATE_PUBLIC.xlsx)
 ![Local Data B2](/PENNDOTReport A1 - STATE_PUBLIC.xlsx)
