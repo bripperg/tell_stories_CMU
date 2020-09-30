@@ -63,10 +63,11 @@ PennDOT's publically available data is my major source.
 
 I've researched and pulled data on the current status of all the bridges in Pennsylvania. This gives me a snapshot of the current health of bridges with good, fair, and poor ratings. I pulled the data late last year for a work project, but I want to use this opportunity to share the full story we are facing. 
 
-[Conditions State and Local](https://www.penndot.gov/ProjectAndPrograms/Bridges/Pages/default.aspx)
+[Download at Website: Conditions of State and Local Bridges](https://www.penndot.gov/ProjectAndPrograms/Bridges/Pages/default.aspx)
 
 Thru my research, I uncovered a presentation from PennDOT on their implementation program for capital and maintenance of bridges. This was publically available on PennDOT's website. The presentation discusses how they have been developing their asset management and the tools metrics they are starting to track. 
 
+[PennDOT Asset Mgmt Older Presentation](/PennDOT-AssetManagementPresentation.pdf)
 [2019 PennDOT Presentation](https://www.penndot.gov/ProjectAndPrograms/Asset-Management/Documents/PennDOT-TAMP.pdf)
 
 Second, I used Wikipedia to understand the global bridge failures. There is a documented table of what happened, how many were injured, and what is the overall trend. [https://en.wikipedia.org/wiki/List_of_bridge_failures](https://en.wikipedia.org/wiki/List_of_bridge_failures)
