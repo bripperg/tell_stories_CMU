@@ -2,16 +2,16 @@
 CMU Telling Stories with Data Class, link to live site [Home Page](https://bripperg.github.io/tell_stories_CMU/)
 
 # Final Project: PennDOT Bridge Asset Management, Helping Maintain Sustainability
-###### The story of how mainenance and innovation can lead to a better future
+###### The story of how maintenance and innovation can lead to a better future
 
 
 #### Outline
 
-Maintenance on bridges in the United States is not as passive as people believe, preventing catastrophy takes a great deal of effort. Bridge integrity is a major topic in developed countries, places like Germany and the United States are investing in preventing a recent rise in bridge failures. New technologies have been developed to evaluate, real-time, the health of brigdes and ways to maintain them efficiently. This story is going to take my readers from the realities of the current situation to the solution for the very near future. 
+Although we may not notice it, bridge health is a major topic that needs to be addressed. Bridge asset preservation in the United States is not as passive as we believe, preventing catastrophy takes a great deal of effort. There has been a spike in bridge failures over the last 20 years and countries like Germany and the United States are investing in preservation. New technologies have been developed to evaluate real-time health of structures and strategies to maintain them efficiently. I plan to take my readers through a story that is going to start from the realities of our current situation and finish at a solution for the **very** near future. 
 
 
 ###### Major Elements
-1. History of bridge, quickly thru the industrial revolution to the 2000s, through the innovations between decades
+1. History of bridges, quickly thru the industrial revolution to the 2000s (innovations between the decades)
 
 2. The trend of bridge failures from 1980 - 2020, major spike in bridge failures
 
@@ -53,11 +53,11 @@ Maintenance on bridges in the United States is not as passive as people believe,
 
 #### The Data
 
-PennDOT's publically available data is my first reference
+PennDOT's publically available data is my major source. 
 
-I did research to pull data on the current status of all the bridges in Pennsylvania. This gives me a snapshot of the current health of bridges. I actually pulled this data late last year for a work project, repurposing the raw data for actually informing people on the full picture. 
+I've researched and pulled data on the current status of all the bridges in Pennsylvania. This gives me a snapshot of the current health of bridges with good, fair, and poor ratings. I pulled the data late last year for a work project, but I want to use this opportunity to share the full story we are facing. 
 
-I also have a presentation from PennDOT on the implementation program for capital/maintenance for the future. This was publically available on PennDOT's website as well. It discusses how they have been developing their maintenance and preserving bridges. 
+Thru my research, I uncovered a presentation from PennDOT on their implementation program for capital and maintenance of bridges. This was publically available on PennDOT's website. The presentation discusses how they have been developing their asset management and the tools metrics they are starting to track. 
 
 Second, I used Wikipedia to understand the global bridge failures. There is a documented table of what happened, how many were injured, and what is the overall trend. [https://en.wikipedia.org/wiki/List_of_bridge_failures](https://en.wikipedia.org/wiki/List_of_bridge_failures)
 
@@ -70,15 +70,15 @@ Finally, I plan to use some company documentation on Akselos and Listening to Br
 
 I plan to use Shorthand as my medium for presenting the data. It will work well for "progressing" through the story as readers scroll through the page. 
 
-Readers will start by scrolling through the history of bridges. It will ground them on how far we have come and what cool things we've been able to do. Then, they will get presented with how there have been an increase in bridge issues. As they are scrolling through, they will get a few snips and highlights. I hope to add some intelligient "navigation bars" to show an overall timeline and where they are. After than, it will start to get more positive because PennDOT has started to invest in the correction. Although the correction has been to close many bridges, which isn't sustainable. So I will re-adjust the reader to seeing where the true value is and how we can leverage technologies from other industries into the bridge asset preservation. I will present how a few key tools have recently come to the market that can efficienty, accurately, and contiously track health of bridges and alert on issues. They lower maintenance effort and increase safety with quality. I will create some generic visual to represent some Key Performance Indicators (KPIs) and use Tableau to create a few visualizations around the data I have for "poor quality" bridges in Pittsburgh. My audience will be public officials/penndot employees in asset management. The goal will be that they can be the hero, they can bring an amazing new strategy to their business to make life safer for our citizens. 
+Readers will start by scrolling through the history of bridges. It will ground them on how far we (as a society) have come and what creations we've been able to achieve. 
 
+Then, the readers will be presented with how we've seen an increase in bridge failures. As the readers are scrolling through the page, they will get a few snips and highlights. I hope to add some intelligient "navigation bars" to show an overall timeline and where they are. 
 
+After the history, the page will start to get more positive. I will focus on how PennDOT has started to invest in correcting the issue at hand. Although, the correction have been to close bridges, which isn't sustainable as they are closing more than is required. I will share data with how in roughly 2011 we had 62 bridges closed, now there are 1900 bridges.
 
+The reader will now be ready to receive my message, I will re-adjust the reader to seeing where the **true value** is and how we can leverage technologies from other industries into the bridge asset preservation. I will present how a few key tools have recently come to the market that can efficienty, accurately, and contiously track health of bridges and alert on issues as they arise. The tools lower maintenance effort and increase safety with quality. It will also allow us to intelligently evaluate bridges to understand the proper amount of bridge closings that're required. 
 
+I will create visuals to represent Key Performance Indicators (KPIs) and use Tableau to create a few visualizations around the data I have for "poor quality" bridges in Pittsburgh. 
 
+My audience will be public officials/penndot employees in asset management. The goal will be that they can be the hero, they can bring an amazing new strategy to their business to make life safer for our citizens. 
 
-
-
-
-
-#### Method and Medium
