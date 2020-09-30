@@ -63,13 +63,18 @@ PennDOT's publically available data is my major source.
 
 I've researched and pulled data on the current status of all the bridges in Pennsylvania. This gives me a snapshot of the current health of bridges with good, fair, and poor ratings. I pulled the data late last year for a work project, but I want to use this opportunity to share the full story we are facing. 
 
+![State Data A1](/PENNDOTReport A1 - STATE_PUBLIC.xlsx)
+![State Data A2](/PENNDOTReport A1 - STATE_PUBLIC.xlsx)
+![Local Data B1](/PENNDOTReport A1 - STATE_PUBLIC.xlsx)
+![Local Data B2](/PENNDOTReport A1 - STATE_PUBLIC.xlsx)
+
 Thru my research, I uncovered a presentation from PennDOT on their implementation program for capital and maintenance of bridges. This was publically available on PennDOT's website. The presentation discusses how they have been developing their asset management and the tools metrics they are starting to track. 
 
 Second, I used Wikipedia to understand the global bridge failures. There is a documented table of what happened, how many were injured, and what is the overall trend. [https://en.wikipedia.org/wiki/List_of_bridge_failures](https://en.wikipedia.org/wiki/List_of_bridge_failures)
 
 Third, I found data on the history of bridges. [https://truetechbridge.com/about-us/history/](https://truetechbridge.com/about-us/history/)
 
-Finally, I plan to use some company documentation on Akselos and Listening to Bridges that can allow me to create some unique visuals on the impact and benefit of these faster tools that have been developed and reapplying them to this situation. [https://akselos.com/](https://akselos.com/) [Listening to Bridges](https://www.bilfinger.com/en/industries/metallurgy/247-technical-inspections-for-bridges/#:~:text=Now%20that%20this%20technology%20has%20been%20refined%2C%20Bilfinger,is%20helping%20to%20make%20Germany%27s%20roads%20even%20safer.)
+Finally, I plan to use some company documentation on Akselos and Listening to Bridges that can allow me to create some unique visuals on the impact and benefit of these faster tools that have been developed and reapplying them to this situation. [Akselos](https://akselos.com/) [Listening to Bridges](https://www.bilfinger.com/en/industries/metallurgy/247-technical-inspections-for-bridges/#:~:text=Now%20that%20this%20technology%20has%20been%20refined%2C%20Bilfinger,is%20helping%20to%20make%20Germany%27s%20roads%20even%20safer.)
 
 
 #### Method and medium
