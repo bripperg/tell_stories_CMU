@@ -101,3 +101,11 @@ My audience will be public officials/penndot employees in asset management. The 
 [Storyboard](/Storyboard.pptx)
 [Protocol with Answers(/Protocol_with_Answers.docx)
 
+Target Audience, PennDOT employee in charge of spending money to maintain health and safety of bridges and roads in Pennsylvania.
+
+Participant 1: Male, 60s, Professional in Information Systems, background in programming and finance
+Participant 2: Female, 60s, Professional Accountant CPA, background in legal
+Participant 3: Female, upper 20s, clinical psycology PhD student at UPitt, background in medical research
+
+Changes, refer to document but I plan to make changes in the stating of facts. I'm relying on implacations and I need to help the reader draw more conclusions from the data. Also, be more clear with the links. 
+
