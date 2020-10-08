@@ -99,7 +99,7 @@ My audience will be public officials/penndot employees in asset management. The 
 # Part II User Research and Storyboard
 
 [Storyboard](/Storyboard.pptx)
-[Protocol with Answers(/Protocol_with_Answers.docx)
+[Protocol with Answers](/Protocol_with_Answers.docx)
 
 Target Audience, PennDOT employee in charge of spending money to maintain health and safety of bridges and roads in Pennsylvania.
 
