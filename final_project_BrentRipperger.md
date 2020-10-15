@@ -78,6 +78,10 @@ Second, I used Wikipedia to understand the global bridge failures. There is a do
 
 Third, I found data on the history of bridges. [https://truetechbridge.com/about-us/history/](https://truetechbridge.com/about-us/history/)
 
+Fourth, I found data on the Minnesota failure [Minneapolis Bridge Collapse: 10 Years Later, Infrastructure Still In Decline : NPR](https://www.npr.org/2017/08/01/540669701/10-years-after-bridge-collapse-america-is-still-crumbling#:~:text=Ten%20years%20ago%2C%20the%20Interstate%2035W%20bridge%20over,145%20more%20were%20injured%2C%20many%20of%20them%20seriously.)
+
+Fifth, my company websites for topics around bridge maintenance [Non Destructive Testing](https://www.noell.bilfinger.com/en/business-segments/service-and-assembly/non-destructive-testing/) and [Cognitive Sensors](https://digitalnext.bilfinger.com/resources/use-cases/cognitive-sensor#:~:text=This%20simple%20principle%20was%20the%20starting%20point%20for,mode%20as%20well%20as%20faults%20and%20maintenance%20requirements.)
+
 Finally, I plan to use some company documentation on Akselos and Listening to Bridges that can allow me to create some unique visuals on the impact and benefit of these faster tools that have been developed and reapplying them to this situation. [Akselos](https://akselos.com/) [Listening to Bridges](https://www.bilfinger.com/en/industries/metallurgy/247-technical-inspections-for-bridges/#:~:text=Now%20that%20this%20technology%20has%20been%20refined%2C%20Bilfinger,is%20helping%20to%20make%20Germany%27s%20roads%20even%20safer.)
 
 
