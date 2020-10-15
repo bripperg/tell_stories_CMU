@@ -4,13 +4,15 @@ CMU Telling Stories with Data Class, link to live site [Home Page](https://bripp
 # Final Project: PennDOT Bridge Asset Management, Helping Maintain Sustainability
 ###### The story of how maintenance and innovation can lead to a better future
 
+# Part I
+### The Idea
 
 #### Outline
 
 Although we may not notice it, bridge health is a major topic that needs to be addressed. Bridge asset preservation in the United States is not as passive as we believe, preventing catastrophy takes a great deal of effort. There has been a spike in bridge failures over the last 20 years and countries like Germany and the United States are investing in preservation. New technologies have been developed to evaluate real-time health of structures and strategies to maintain them efficiently. I plan to take my readers through a story that is going to start from the realities of our current situation and finish at a solution for the **very** near future. 
 
 
-###### Major Elements
+#### Major Elements
 1. History of bridges, quickly thru the industrial revolution to the 2000s (innovations between the decades)
 
 2. The trend of bridge failures from 1980 - 2020, major spike in bridge failures
