@@ -96,7 +96,8 @@ I will create visuals to represent Key Performance Indicators (KPIs) and use Tab
 My audience will be public officials/penndot employees in asset management. The goal will be that they can be the hero, they can bring an amazing new strategy to their business to make life safer for our citizens. 
 
 
-# Part II User Research and Storyboard
+# Part II
+### User Research and Storyboard
 
 1. [Storyboard](/Storyboard.pptx)
 2. [Protocol with Answers](/Protocol_with_Answers.docx)
@@ -105,7 +106,21 @@ Target Audience, PennDOT employee responsible for the budget to maintain the hea
 
 1. Participant 1: Male, 60s, Professional in Information Systems, background in programming and finance
 2. Participant 2: Female, 60s, Professional Accountant CPA, background in legal
-Participant 3: Female, upper 20s, clinical psycology PhD student at UPitt, background in medical research
+Participant 
+3. Female, upper 20s, clinical psycology PhD student at UPitt, background in medical research
+4. Changes, refer to document. I plan to make major changes in the stating of facts. I am currently relying too much on implications, and I need to help the reader draw conclusions from the data vizs presented. Also, I need be more clear with the links between visuals and the entire "story telling" aspect
 
-3. Changes, refer to document. I plan to make major changes in the stating of facts. I am currently relying too much on implications, and I need to help the reader draw conclusions from the data vizs presented. Also, I need be more clear with the links between visuals and the entire "story telling" aspect
+# Part III
+### Final Data Story
+
+My intended audience is PennDOT employees responsible for bridge asset management and inspections. I tailored this project to them by talking about their achievements, but also making goals clear for zero bridge failures. I also brought up their research and history to bring to light the knowledge that I have done the research on their business. Also, I included some jargon that they will know, but also doesn't lose the random audience members that might see my page (like "Poor" condition means something different to public vs PennDOT. I included many quotes from my research that support my point. A lot of the presentations from PennDOT include key things that I'd like to provide, they admit it is beneficialy. This will align our goals, so they feel like we can speak the same language and help each other. 
+
+I also removed stuff that seemed to make the presentation drag on, like intro-ing into the website with history of bridges. I realized that it took away from the point I'm trying to get my readers to, and also it confused them with data that isn't relavent to the solution I present later. I also removed the part about funding intiatives. Prelimnary research showed they have increased their funding, but further investigation found that bridge specific spending is actually decreasing! At least the projects they are funding is on the decline. Additionally, I included links that allow them to research the topic VERY indepth. I gave them direct links to partners of Bilfinger, while also Bilfinger's site for NDT testing and cognitive sensors. All of this will help them be able to be well educated, before the call to action if they prefer. 
+
+Color use here took a lot of consideration. I ended up designing a neutral background for most of the text, but used a bright blue feature for any time I bring up questions the reader should be asking. This makes the questions impactful and not missed by the reader. I feel that really helped make the story flow, efficiently with the reader. It was one of my more favorite touches. Also, the Minnesota failure was added close to the end. I really needed a quick way to show the thing we are risking by not doing something about it. The data speaks well, but to me the crashed bridge and deathes really drive an emotional reaction that I think will help my cause. 
+
+My most eye-opening area is "The Steps". This is another design techniquie in persuaion, I am very clearly tieing a bow on the entire solution I presented. To me, this simply shows the solution without getting into all the jargon that would be required otherwise. Also, I like my closing call to action. The three leading questions with a clear, enroll this bridge. 
+
+[Brent Ripperger Final Project Website](https://carnegiemellon.shorthandstories.com/penndot-asset-management--bridges-in-2020/index.html)
+
 
