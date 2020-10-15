@@ -31,23 +31,23 @@ Although we may not notice it, bridge health is a major topic that needs to be a
 
 #### Initial Sketches
 
-###### Story Arc
+##### Story Arc
 ![Story Arc](/Story Arc.PNG)
 
-###### History of Bridges
+##### History of Bridges
 ![History of bridges](/History of Innovation.PNG)
 ![website_history](/website_history.PNG)
 
-###### Trend of Bridge Failures
+##### Trend of Bridge Failures
 ![Trend of Failures](/Trend of Failures.PNG)
 
 
-###### Increased Funding from PennDOT
+##### Increased Funding from PennDOT
 ![PennDOT](/PennDOT.PNG)
 ![Funding](/penndot funding.PNG)
 
 
-###### Major Recent Technology for Use In Bridges
+##### Major Recent Technology for Use In Bridges
 
 Listening to bridges is when we attach sensors to the bridge. The sensors passively wait for cracks/impacts to occur and inform crews (sometimes within 10cm) where the issue has propigated. 
 
