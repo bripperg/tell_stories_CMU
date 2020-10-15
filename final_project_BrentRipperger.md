@@ -4,8 +4,8 @@ CMU Telling Stories with Data Class, link to live site [Home Page](https://bripp
 # Final Project: PennDOT Bridge Asset Management, Helping Maintain Sustainability
 ###### The story of how maintenance and innovation can lead to a better future
 
-# Part I
-### The Idea
+# Part I: The Idea
+
 
 #### Outline
 
@@ -98,8 +98,7 @@ I will create visuals to represent Key Performance Indicators (KPIs) and use Tab
 My audience will be public officials/penndot employees in asset management. The goal will be that they can be the hero, they can bring an amazing new strategy to their business to make life safer for our citizens. 
 
 
-# Part II
-### User Research and Storyboard
+# Part II: User Research and Storyboard
 
 1. [Storyboard](/Storyboard.pptx)
 2. [Protocol with Answers](/Protocol_with_Answers.docx)
@@ -112,8 +111,7 @@ Participant
 3. Female, upper 20s, clinical psycology PhD student at UPitt, background in medical research
 4. Changes, refer to document. I plan to make major changes in the stating of facts. I am currently relying too much on implications, and I need to help the reader draw conclusions from the data vizs presented. Also, I need be more clear with the links between visuals and the entire "story telling" aspect
 
-# Part III
-### Final Data Story
+# Part III: Final Data Story
 
 My intended audience is PennDOT employees responsible for bridge asset management and inspections. I tailored this project to them by talking about their achievements, but also making goals clear for zero bridge failures. I also brought up their research and history to bring to light the knowledge that I have done the research on their business. Also, I included some jargon that they will know, but also doesn't lose the random audience members that might see my page (like "Poor" condition means something different to public vs PennDOT. I included many quotes from my research that support my point. A lot of the presentations from PennDOT include key things that I'd like to provide, they admit it is beneficialy. This will align our goals, so they feel like we can speak the same language and help each other. 
 
