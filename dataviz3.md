@@ -4,6 +4,8 @@ CMU Telling Stories with Data Class, link to live site [Home Page](https://bripp
 
 ### Step one: Initial Chart
 
+![Initial_Chart](/Initial_Chart.PNG)
+
 Here is the website to the article and pie chart I'm re-designing: [https://www.saferack.com/falls-lead-in-workplace-fatalities/](https://www.saferack.com/falls-lead-in-workplace-fatalities/)
 
 ### Step two: Critique
