@@ -1,6 +1,6 @@
 # Part II: User Research and Storyboard
 
-Link to Main Final Project Page [Main_Final Project](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
+Link to [Final Project Main Page](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
 
 1. [Storyboard](/Storyboard.pptx)
 2. [Protocol with Answers](/Protocol_with_Answers.docx)
