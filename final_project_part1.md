@@ -2,12 +2,12 @@
 
 Link to [Final Project Main Page](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
 
-#### Outline
+### Outline
 
 Although we may not notice it, bridge health is a major topic that needs to be addressed. Bridge asset preservation in the United States is not as passive as we believe, preventing catastrophy takes a great deal of effort. There has been a spike in bridge failures over the last 20 years and countries like Germany and the United States are investing in preservation. New technologies have been developed to evaluate real-time health of structures and strategies to maintain them efficiently. I plan to take my readers through a story that is going to start from the realities of our current situation and finish at a solution for the **very** near future. 
 
 
-#### Major Elements
+### Major Elements
 1. History of bridges, quickly thru the industrial revolution to the 2000s (innovations between the decades)
 
 2. The trend of bridge failures from 1980 - 2020, major spike in bridge failures
@@ -24,25 +24,25 @@ Although we may not notice it, bridge health is a major topic that needs to be a
 
 
 
-#### Initial Sketches
+### Initial Sketches
 
-##### Story Arc
+#### Story Arc
 ![Story Arc](/Story Arc.PNG)
 
-##### History of Bridges
+#### History of Bridges
 ![History of bridges](/History of Innovation.PNG)
 ![website_history](/website_history.PNG)
 
-##### Trend of Bridge Failures
+#### Trend of Bridge Failures
 ![Trend of Failures](/Trend of Failures.PNG)
 
 
-##### Increased Funding from PennDOT
+#### Increased Funding from PennDOT
 ![PennDOT](/PennDOT.PNG)
 ![Funding](/penndot funding.PNG)
 
 
-##### Major Recent Technology for Use In Bridges
+#### Major Recent Technology for Use In Bridges
 
 Listening to bridges is when we attach sensors to the bridge. The sensors passively wait for cracks/impacts to occur and inform crews (sometimes within 10cm) where the issue has propigated. 
 
@@ -54,7 +54,7 @@ The selling point is to link the two technologies to work off each other. Past d
 
 
 
-#### The Data
+### The Data
 
 PennDOT's publically available data is my major source. 
 
@@ -80,7 +80,7 @@ Fifth, my company websites for topics around bridge maintenance [Non Destructive
 Finally, I plan to use some company documentation on Akselos and Listening to Bridges that can allow me to create some unique visuals on the impact and benefit of these faster tools that have been developed and reapplying them to this situation. [Akselos](https://akselos.com/) [Listening to Bridges](https://www.bilfinger.com/en/industries/metallurgy/247-technical-inspections-for-bridges/#:~:text=Now%20that%20this%20technology%20has%20been%20refined%2C%20Bilfinger,is%20helping%20to%20make%20Germany%27s%20roads%20even%20safer.)
 
 
-#### Method and medium
+### Method and medium
 
 I plan to use Shorthand as my medium for presenting the data. It will work well for "progressing" through the story as readers scroll through the page. 
 
