@@ -1,6 +1,6 @@
 # Part III: Final Data Story
 
-Link to Main Final Project Page [Main_Final Project](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
+Link to [Final Project Main Page](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
 
 My intended audience is PennDOT employees responsible for bridge asset management and inspections. I tailored this project to them by talking about their achievements, but also making goals clear for zero bridge failures. I also brought up their research and history to bring to light the knowledge that I have done the research on their business. Also, I included some jargon that they will know, but also doesn't lose the random audience members that might see my page (like "Poor" condition means something different to public vs PennDOT. I included many quotes from my research that support my point. A lot of the presentations from PennDOT include key things that I'd like to provide, they admit it is beneficialy. This will align our goals, so they feel like we can speak the same language and help each other. 
 
