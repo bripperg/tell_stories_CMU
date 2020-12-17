@@ -1,43 +1,9 @@
 # tell_stories_CMU
 CMU Telling Stories with Data Class, link to live site https://bripperg.github.io/tell_stories_CMU/
 
-1. link to [DataViz2](https://bripperg.github.io/tell_stories_CMU/dataviz2.html)
-2. link to [DataViz3](https://bripperg.github.io/tell_stories_CMU/dataviz3.html)
-3. link to [Final Project](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
-
-# About me
-
-#### Locations Lived
-
-'93 - '12 Tulsa, OK: born through graduating high school
-
-'12 - '13 Stillwater, OK: college freshman @ Oklahoma State University
-
-'13 - '16 St. Louis, MO: transferred to attend a joint engineering program between Washington University in St. Louis and University of Missouri- St. Louis
-
-'16 - '19 St. Louis, MO: started my professional career with Bilfinger, after graduation
-
-'19 - '20 Pittsburgh, PA: moved when my wife was accepted into a PhD program at University of Pittsburgh
-
-'19 - '20 Mannheim, DE: job rotation as CEO's business assistant, Oct 2019 - Feb 2020
-
-#### Work
-
-I received my BS in Mechanical Engineering. I joined Bilfinger Industrial Services' full-time staff as a cost engineer. My major industries are consumer products, chemicals, and oil & gas. I help our clients understand the cost implications of their business plans through conceptual and feasibility estimating engineering and construction effort. 
-
-Over the last year, I have been consistently developing data solutions for my company. Mostly helping to optimize the way our business currently operates. When I found the BIDA program at CMU, I knew it was the perfect way to help educate myself for how my role in the company is transitioning.
-
-
-#### Interests
-
-I don't want to drag this out, so I will highlight some of the major interests of mine
-
-My major "work-related" interests are urban development and personal finance. Both of these topics I find extremely interested! I am constantly trying to think of a business/opportunity around urban development and BIDA, if you think of any let me know. I typically navigate towards mixed-use developments, redevelopment, and community spaces. Also, I love personal finance. I use Mint and it takes up more than I'd like to admit for my free time. If you ever have any questions regarding personal finance, I would love to be a resource. 
-
-Anything termed as "active leisure", I am in! Hike, bike, run, climb, sports, canoe, etc. If you want to do any of these, hit me up!
-
-I also enjoy board games, movies, and fiction books. 
-
+1. Link to [DataViz2](https://bripperg.github.io/tell_stories_CMU/dataviz2.html)
+2. Link to [DataViz3](https://bripperg.github.io/tell_stories_CMU/dataviz3.html)
+3. Link to [Final Project](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
 
 # What I hope to learn from telling stories with data
 
