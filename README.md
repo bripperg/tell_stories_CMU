@@ -5,7 +5,7 @@ CMU Telling Stories with Data Class, link to this live site https://bripperg.git
 2. Link to [DataViz3](https://bripperg.github.io/tell_stories_CMU/dataviz3.html)
 3. Link to [Final Project](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
 
-# What I hope to learn from telling stories with data
+# What do I hope to learn from telling stories with data?
 
 1. Additional tools at my disposal when creating visualizations. To date, my only tools are PowerPoint, Prezi, Power BI, and Excel. 
 
