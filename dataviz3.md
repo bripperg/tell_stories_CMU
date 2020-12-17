@@ -1,3 +1,5 @@
+# Carnegie Mellon University: Telling Stories with Data
+
 CMU Telling Stories with Data Class, link to live site [Home Page](https://bripperg.github.io/tell_stories_CMU/)
 
 # Critique by Design
