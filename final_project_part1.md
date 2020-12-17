@@ -1,6 +1,6 @@
 # Part I: The Idea
 
-Link to Main Final Project Page [Main_Final Project](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
+Link to [Final Project Main Page](https://bripperg.github.io/tell_stories_CMU/final_project_BrentRipperger.html)
 
 #### Outline
 
