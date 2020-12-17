@@ -1,4 +1,5 @@
 # Carnegie Mellon University: Telling Stories with Data
+
 CMU Telling Stories with Data Class, link to this live site https://bripperg.github.io/tell_stories_CMU/
 
 1. Link to [DataViz2](https://bripperg.github.io/tell_stories_CMU/dataviz2.html)
