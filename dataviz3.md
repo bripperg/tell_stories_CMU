@@ -1,6 +1,6 @@
 CMU Telling Stories with Data Class, link to live site [Home Page](https://bripperg.github.io/tell_stories_CMU/)
 
-# Assignment 3 & 4: Critique by Design
+# Critique by Design
 
 ### Step one:
 
