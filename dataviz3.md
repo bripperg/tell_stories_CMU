@@ -2,22 +2,22 @@ CMU Telling Stories with Data Class, link to live site [Home Page](https://bripp
 
 # Critique by Design
 
-### Step one:
+### Step one: Initial Chart
 
 Here is the website to the article and pie chart I'm re-designing: [https://www.saferack.com/falls-lead-in-workplace-fatalities/](https://www.saferack.com/falls-lead-in-workplace-fatalities/)
 
-### Step two:
+### Step two: Critique
 
 I submitted my responses thru the google form
 
-### Step three:
+### Step three: Wireframe
 
 Here is my wireframe created from Balsamiq
 
 ![Wireframe](/Wireframe.PNG)
 
 
-### Step four:
+### Step four: Feedback
 
 **Anna Kolesnikova, Brent Ripperger Telling Stories with Data - Fall 2020 - Mini 1**
 
@@ -87,7 +87,7 @@ Great job Brent!
 I was wondering if the path to zero would be too much, that’s an industry term meaning that companies should use a safety plan that drives you to zero. It’s too much industry jargon, great feedback! “Who this is for” wasn’t correct for either person, so I will need to make that more clear. It’s intended for construction companies, probably safety leaders or managers. The other category is surprising to anyone not in construction, although there are another 18 categories that all share a very small sliver of the remaining. I don’t think I need to clarify here, the target audience won’t be thrown off. Loved the feedback! My sketch did better than I thought.
 
 
-### Step five:
+### Step five: Re-Design Results
 
 Here is the website to the article and pie chart I'm re-designing: [https://www.saferack.com/falls-lead-in-workplace-fatalities/](https://www.saferack.com/falls-lead-in-workplace-fatalities/)
 
