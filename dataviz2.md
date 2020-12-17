@@ -1,6 +1,6 @@
 # Carnegie Mellon University: Telling Stories with Data
 
-CMU Telling Stories with Data Class, link to live site [Home Page](https://bripperg.github.io/tell_stories_CMU/)
+CMU's Telling Stories with Data class, link to live site [Home Page](https://bripperg.github.io/tell_stories_CMU/)
 
 # DataViz Exercise Number 2: Introduction to Public Data Vizs with Free Software
 
