@@ -4,11 +4,11 @@ CMU Telling Stories with Data Class, link to live site [Home Page](https://bripp
 # Final Project: PennDOT Bridge Asset Management, Helping Maintain Sustainability
 ###### The story of how maintenance and innovation can lead to a better future
 
-Part I: The Idea [Part_1_The_Idea](https://bripperg.github.io/tell_stories_CMU/final_project_part1.html)
+Part I: [The_Idea](https://bripperg.github.io/tell_stories_CMU/final_project_part1.html)
 
-Part II: User Research and Storyboard [Part_2_User_Research_Storyboard](https://bripperg.github.io/tell_stories_CMU/final_project_part2.html)
+Part II: [User Research and Storyboard](https://bripperg.github.io/tell_stories_CMU/final_project_part2.html)
 
-Part III: Final Data Story [Part_3_Final_Data_Story](https://bripperg.github.io/tell_stories_CMU/final_project_part3.html)
+Part III: [Final Data Story](https://bripperg.github.io/tell_stories_CMU/final_project_part3.html)
 
 
 ###### Link to Final Project
